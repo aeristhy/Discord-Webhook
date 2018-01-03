@@ -7,7 +7,7 @@ Fist, you need to install [Postman](https://www.getpostman.com) on your PC. Avai
 
 ![picture alt](https://i.imgur.com/PERGcr4.jpg "Screenshot")
 
-## Code
+## Code:
 
 ```json
 {
@@ -19,3 +19,5 @@ Fist, you need to install [Postman](https://www.getpostman.com) on your PC. Avai
 	}]
 }
 ```
+
+You can find more information about Webhooks on [Discord Webooks](https://discordapp.com/developers/docs/resources/webhook).
