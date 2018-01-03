@@ -24,4 +24,4 @@ You can find more information about Webhooks on [Discord Webooks](https://discor
 
 ## TODO:
 
-[ ] Examples
+- [ ] Examples
